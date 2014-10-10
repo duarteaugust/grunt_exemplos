@@ -1,6 +1,5 @@
 module.exports = function(grunt) {
 
-	
 	grunt.initConfig({	//definição das tarefas de acordo com documentação
 		
 		pkg: grunt.file.readJSON('package.json'),
